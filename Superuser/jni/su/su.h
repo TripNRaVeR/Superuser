@@ -39,7 +39,7 @@
 #define AID_RADIO (get_radio_uid())
 #endif
 
-// CyanogenMod-specific behavior
+// TripNDroid-specific behavior
 #define CM_ROOT_ACCESS_DISABLED      0
 #define CM_ROOT_ACCESS_APPS_ONLY     1
 #define CM_ROOT_ACCESS_ADB_ONLY      2
